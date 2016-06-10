@@ -1,5 +1,5 @@
 package Pablo;
-// @author Juan Pablo (PARA GITHUB)
+// @author Juan Pablo (PARA GITHUB, de regreso)
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
