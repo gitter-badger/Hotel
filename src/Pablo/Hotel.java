@@ -9,6 +9,8 @@ public class Hotel {
             //asdasdasd
             //puto el q lo lea
             //asdasdd
+            
+            // definitivamente puto el que lo lea
             //cargar nuestro driver
             Class.forName("com.mysql.jdbc.Driver");
             cone=DriverManager.getConnection ("jdbc:mysql://localhost/hotel_inter","root","");
