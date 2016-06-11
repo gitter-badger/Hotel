@@ -9,7 +9,7 @@ public class Hotel {
             //asdasdasd
             //puto el q lo lea
             //asdasdd
-            
+            //LISTO MIJO YA NO LO MOLESTO MAS :D
             // definitivamente puto el que lo lea
             //cargar nuestro driver
             Class.forName("com.mysql.jdbc.Driver");
