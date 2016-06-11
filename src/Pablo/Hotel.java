@@ -6,7 +6,9 @@ public class Hotel {
     Connection cone=null;
     public Connection conexion(){
         try {
+            //asdasdasd
             //puto el q lo lea
+            //asdasdd
             //cargar nuestro driver
             Class.forName("com.mysql.jdbc.Driver");
             cone=DriverManager.getConnection ("jdbc:mysql://localhost/hotel_inter","root","");
