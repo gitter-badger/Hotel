@@ -1,5 +1,5 @@
 package Pablo;
-// @author Juan Pablo (PARA GITHUB)
+// @author Juan Pablo
 import java.sql.*;
 import javax.swing.JOptionPane;
 public class Hotel {
